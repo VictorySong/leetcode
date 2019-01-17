@@ -1,6 +1,10 @@
 Longest Palindromic Substring
 ------------------------------------------------------
+
+[https://leetcode.com/problems/longest-palindromic-substring/](https://leetcode.com/problems/longest-palindromic-substring/)  
+
 1. My solution  
+javascript  
 ```javascript
 /**
  * @param {string} s
